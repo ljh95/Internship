@@ -1,0 +1,21 @@
+.createForm {
+  display: inline-block;
+  margin: 100px auto;
+  padding: 30px;
+  background-color: white;
+  border: 1px solid #333;
+  border-radius: 5px;
+}
+
+.default-label {
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.unvalid {
+  border: 1px solid #dc354573 !important;
+}
+
+.valid {
+  border: 1px solid #0d6efd !important;
+}

@@ -1,0 +1,7 @@
+.formHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 350px;
+  margin: 2px 20px 50px;
+}

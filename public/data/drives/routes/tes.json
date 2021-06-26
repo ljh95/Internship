@@ -1,0 +1,34 @@
+{
+  "pk": 1,
+  "loading_location": {
+    "loading_location_id": 503,
+    "type": true,
+    "name": "골든강남빌",
+    "longitude": 127.048616,
+    "latitude": 37.4804644
+  },
+  "unloading_location": {
+    "unloading_location_id": 820,
+    "type": false,
+    "name": "임성빌딩",
+    "longitude": 127.0722195,
+    "latitude": 37.6224897
+  },
+  "drive_route": [
+    {
+      "drive_route_id": 12,
+      "longitude": 126.971515,
+      "latitude": 37.475568
+    },
+    {
+      "drive_route_id": 20,
+      "longitude": 126.971515,
+      "latitude": 37.475568
+    },
+    {
+      "drive_route_id": 71,
+      "longitude": 126.854665,
+      "latitude": 37.554989
+    }
+  ]
+}

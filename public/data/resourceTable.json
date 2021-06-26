@@ -1,0 +1,30 @@
+[
+  {
+    "id": "301",
+    "location_name": "HS 고덕 스카이시티 상차지",
+    "name": "동원 모래",
+    "type": "모래",
+    "block": "10t"
+  },
+  {
+    "id": "302",
+    "location_name": "MS 고덕 스카이시티 상차지",
+    "name": "가리봉동 폐기물",
+    "type": "폐기물",
+    "block": "20t"
+  },
+  {
+    "id": "303",
+    "location_name": "AS 고덕 스카이시티 상차지",
+    "name": "비싼 흙",
+    "type": "사토",
+    "block": "30t"
+  },
+  {
+    "id": "304",
+    "location_name": "DS 고덕 스카이시티 상차지",
+    "name": "개원 사토",
+    "type": "사토",
+    "block": "40t"
+  }
+]

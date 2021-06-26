@@ -1,0 +1,16 @@
+.mapWrapper {
+  padding: 20px;
+}
+
+.map {
+  width: '47%';
+  height: '86.7vh';
+  position: 'relative';
+  border: 1px solid gray;
+  border-radius: 50%;
+}
+
+.dashboard-map {
+  border: 1px solid rgb(231, 231, 231);
+  border-radius: 5px;
+}

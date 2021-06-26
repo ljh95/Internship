@@ -1,0 +1,17 @@
+._form-div {
+  margin-left: 5px;
+}
+
+.col-form-label {
+  width: 100px;
+  font-weight: bold;
+}
+
+._form-input-div {
+  width: auto;
+  max-width: auto;
+}
+
+._form-input {
+  width: 17rem;
+}

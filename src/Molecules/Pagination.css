@@ -1,0 +1,10 @@
+._pg-margin {
+  margin-top: 50px;
+  margin-right: 55px;
+}
+
+.active {
+  background-color: #0d6efd;
+  border-radius: 5px;
+  border: 0px solid white;
+}

@@ -1,0 +1,21 @@
+.search {
+  position: relative;
+}
+
+.search input {
+  height: 40px;
+  text-indent: 25px;
+  border: 2px solid #d6d4d4;
+}
+
+.search input:focus {
+  box-shadow: none;
+  border: 2px solid #0d6dfd71;
+}
+
+.search .fa-search {
+  position: absolute;
+  top: 13px;
+  left: 12px;
+  color: rgb(214, 214, 214);
+}

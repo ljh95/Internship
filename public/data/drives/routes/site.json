@@ -1,0 +1,144 @@
+[
+  {
+    "pk": 3,
+    "loading_location": {
+      "pk": 710,
+      "type": true,
+      "name": "대우렉스빌",
+      "longitude": 126.8527812,
+      "latitude": 37.4854166
+    },
+    "unloading_location": {
+      "pk": 806,
+      "type": false,
+      "name": "대성힐스오피스텔",
+      "longitude": 126.9601403,
+      "latitude": 37.5498494
+    },
+    "drive_route": null
+  },
+  {
+    "pk": 4,
+    "loading_location": {
+      "pk": 711,
+      "type": true,
+      "name": "대우아트빌라",
+      "longitude": 126.8549619,
+      "latitude": 37.4905605
+    },
+    "unloading_location": {
+      "pk": 807,
+      "type": false,
+      "name": "공덕스카이아파트",
+      "longitude": 126.9609849,
+      "latitude": 37.5506849
+    },
+    "drive_route": null
+  },
+  {
+    "pk": 5,
+    "loading_location": {
+      "pk": 712,
+      "type": true,
+      "name": "금정빌라",
+      "longitude": 126.8552859,
+      "latitude": 37.4873583
+    },
+    "unloading_location": {
+      "pk": 808,
+      "type": false,
+      "name": "호수빌딩",
+      "longitude": 127.072,
+      "latitude": 37.6282863
+    },
+    "drive_route": null
+  },
+  {
+    "pk": 25,
+    "loading_location": {
+      "pk": 710,
+      "type": true,
+      "name": "대우렉스빌",
+      "longitude": 126.8527812,
+      "latitude": 37.4854166
+    },
+    "unloading_location": {
+      "pk": 806,
+      "type": false,
+      "name": "대성힐스오피스텔",
+      "longitude": 126.9601403,
+      "latitude": 37.5498494
+    },
+    "drive_route": {
+      "pk": 11,
+      "longitude": 126.8527812,
+      "latitude": 37.4854166
+    }
+  },
+  {
+    "pk": 26,
+    "loading_location": {
+      "pk": 711,
+      "type": true,
+      "name": "대우아트빌라",
+      "longitude": 126.8549619,
+      "latitude": 37.4905605
+    },
+    "unloading_location": {
+      "pk": 807,
+      "type": false,
+      "name": "공덕스카이아파트",
+      "longitude": 126.9609849,
+      "latitude": 37.5506849
+    },
+    "drive_route": {
+      "pk": 13,
+      "longitude": 126.8549619,
+      "latitude": 37.4905605
+    }
+  },
+  {
+    "pk": 27,
+    "loading_location": {
+      "pk": 711,
+      "type": true,
+      "name": "대우아트빌라",
+      "longitude": 126.8549619,
+      "latitude": 37.4905605
+    },
+    "unloading_location": {
+      "pk": 807,
+      "type": false,
+      "name": "공덕스카이아파트",
+      "longitude": 126.9609849,
+      "latitude": 37.5506849
+    },
+    "drive_route": {
+      "pk": 14,
+      "longitude": 126.8549619,
+      "latitude": 37.4905605
+    }
+  },
+  {
+    "pk": 28,
+    "loading_location": {
+      "pk": 710,
+      "type": true,
+      "name": "대우렉스빌",
+      "longitude": 126.8527812,
+      "latitude": 37.4854166
+    },
+    "unloading_location": {
+      "pk": 807,
+      "type": false,
+      "name": "공덕스카이아파트",
+      "longitude": 126.9609849,
+      "latitude": 37.5506849
+    },
+    "drive_route": {
+      "pk": 15,
+      "longitude": 126.8527812,
+      "latitude": 37.4854166
+    }
+  }
+]

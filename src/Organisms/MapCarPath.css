@@ -1,0 +1,9 @@
+.carPathWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mapCarPath {
+  text-align: center;
+}

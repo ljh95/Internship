@@ -1,0 +1,42 @@
+{
+  "pk": 19,
+  "loading_location": {
+    "pk": 1209,
+    "name": "금강빌라트나동",
+    "longitude": 126.9741686,
+    "latitude": 37.4727211
+  },
+  "unloading_location": {
+    "pk": 1227,
+    "name": "약수빌라",
+    "longitude": 126.971515,
+    "latitude": 37.475568
+  },
+  "drive_route": [
+    {
+      "pk": 1,
+      "longitude": 126.9741686,
+      "latitude": 37.4727211
+    },
+    {
+      "pk": 3,
+      "longitude": 126.973618,
+      "latitude": 37.473399
+    },
+    {
+      "pk": 4,
+      "longitude": 126.973618,
+      "latitude": 37.473399
+    },
+    {
+      "pk": 5,
+      "longitude": 126.972352,
+      "latitude": 37.474478
+    },
+    {
+      "pk": 6,
+      "longitude": 126.971515,
+      "latitude": 37.475568
+    }
+  ]
+}

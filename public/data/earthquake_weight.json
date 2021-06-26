@@ -1,0 +1,44 @@
+[
+  {
+    "site_id": 1,
+    "site_name": "999기 기업협업",
+    "progress": { "weight": 5, "percent": 1 },
+    "site_coordinate": { "longitude": 126.8091449, "latitude": 37.4721467 }
+  },
+  {
+    "site_id": 2,
+    "site_name": "20기 기업 협업",
+    "progress": { "weight": 3, "percent": 1 },
+    "site_coordinate": { "longitude": 126.840439, "latitude": 37.4726272 }
+  },
+  {
+    "site_id": 3,
+    "site_name": "21기 기업 협업",
+    "progress": { "weight": 1, "percent": 1 },
+    "site_coordinate": { "longitude": 126.8736832, "latitude": 37.4797479 }
+  },
+  {
+    "site_id": 4,
+    "site_name": "22기 기업 협업",
+    "progress": { "weight": 1, "percent": 1 },
+    "site_coordinate": { "longitude": 126.883068, "latitude": 37.481983 }
+  },
+  {
+    "site_id": 5,
+    "site_name": "23기 기업 협업",
+    "progress": { "weight": 1, "percent": 9 },
+    "site_coordinate": { "longitude": 126.8232854, "latitude": 37.4524314 }
+  },
+  {
+    "site_id": 7,
+    "site_name": "코카콜라",
+    "progress": { "weight": 1, "percent": 1 },
+    "site_coordinate": { "longitude": 126.8308989, "latitude": 37.4948179 }
+  },
+  {
+    "site_id": 8,
+    "site_name": "949기 기업협업",
+    "progress": { "weight": 1, "percent": 1 },
+    "site_coordinate": { "longitude": 126.8921396, "latitude": 37.4882051 }
+  }
+]

@@ -1,0 +1,38 @@
+.dashboard-container {
+  display: inline-flex;
+  width: 89.8vw;
+  padding: 15px;
+  padding-bottom: 0;
+  background-color: #fafafa;
+}
+
+.dashboard-left {
+  width: 45%;
+  height: 86.7vh;
+  padding: 15px;
+}
+
+.dashboard-right {
+  width: 45%;
+  margin-left: 15px;
+  padding: 15px;
+}
+
+.dashboard-filter {
+  margin-bottom: 70px;
+  padding: 15px;
+  background-color: white;
+  border: 1px solid rgb(219, 219, 219);
+  border-radius: 5px;
+}
+
+.dashboard-filter > * {
+  margin-right: 15px;
+}
+
+.chart-wrapper {
+  padding: 10px;
+  background-color: white;
+  border: 1px solid rgb(219, 219, 219);
+  border-radius: 5px;
+}

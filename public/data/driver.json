@@ -1,0 +1,95 @@
+{
+  "last_page": 0,
+  "result": [
+    {
+      "car": {
+        "number": "서울06하1275",
+        "driver_name": "이종호"
+      },
+      "loading_location": "골든강남빌",
+      "unloading_location": "임성빌딩",
+      "loading_time": "21년 05월 20일 16시 23분",
+      "unloading_time": "21년 05월 20일 16시 23분",
+      "transport_weight": "15Kg",
+      "driving_date": "21년 05월 20일",
+      "total_distance": "0.0000",
+      "status": "상차",
+      "resource": {
+        "pk": 1,
+        "name": "구리"
+      }
+    },
+    {
+      "car": {
+        "number": "서울06하1652",
+        "driver_name": "이병재"
+      },
+      "loading_location": "세종빌딩",
+      "unloading_location": "워커힐리버빌",
+      "loading_time": "21년 05월 21일 11시 25분",
+      "unloading_time": "21년 05월 21일 11시 25분",
+      "transport_weight": "15Kg",
+      "driving_date": "21년 05월 21일",
+      "total_distance": null,
+      "status": "상차",
+      "resource": {
+        "pk": 1,
+        "name": "구리"
+      }
+    },
+    {
+      "car": {
+        "number": "서울02자9865",
+        "driver_name": "이윤형"
+      },
+      "loading_location": "대우렉스빌",
+      "unloading_location": "대성힐스오피스텔",
+      "loading_time": "21년 05월 24일 11시 40분",
+      "unloading_time": "21년 05월 24일 11시 40분",
+      "transport_weight": "30Ton",
+      "driving_date": "21년 05월 24일",
+      "total_distance": null,
+      "status": "정상종료",
+      "resource": {
+        "pk": 2,
+        "name": "모래"
+      }
+    },
+    {
+      "car": {
+        "number": "서울02자9815",
+        "driver_name": "백세종"
+      },
+      "loading_location": "대우아트빌라",
+      "unloading_location": "공덕스카이아파트",
+      "loading_time": "21년 05월 24일 11시 40분",
+      "unloading_time": "21년 05월 24일 11시 40분",
+      "transport_weight": "30Ton",
+      "driving_date": "21년 05월 24일",
+      "total_distance": null,
+      "status": "정상종료",
+      "resource": {
+        "pk": 2,
+        "name": "모래"
+      }
+    },
+    {
+      "car": {
+        "number": "수원02자9815",
+        "driver_name": "정현석"
+      },
+      "loading_location": "금정빌라",
+      "unloading_location": "호수빌딩",
+      "loading_time": "21년 05월 24일 11시 40분",
+      "unloading_time": "21년 05월 24일 11시 40분",
+      "transport_weight": "40Ton",
+      "driving_date": "21년 05월 24일",
+      "total_distance": null,
+      "status": "상차",
+      "resource": {
+        "pk": 2,
+        "name": "모래"
+      }
+    }
+  ]
+}

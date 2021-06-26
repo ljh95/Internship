@@ -1,0 +1,42 @@
+{
+  "result": [
+    {
+      "project_id": 1,
+      "name": "B2tech",
+      "site": [
+        {
+          "site_id": 1,
+          "name": "999기 기업협업"
+        },
+        {
+          "site_id": 2,
+          "name": "20기 기업 협업"
+        },
+        {
+          "site_id": 3,
+          "name": "21기 기업 협업"
+        },
+        {
+          "site_id": 4,
+          "name": "22기 기업 협업"
+        },
+        {
+          "site_id": 5,
+          "name": "23기 기업 협업"
+        },
+        {
+          "site_id": 6,
+          "name": "애플"
+        },
+        {
+          "site_id": 7,
+          "name": "코카콜라"
+        },
+        {
+          "site_id": 8,
+          "name": "949기 기업협업"
+        }
+      ]
+    }
+  ]
+}

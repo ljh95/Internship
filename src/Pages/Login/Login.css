@@ -1,0 +1,13 @@
+.createForm {
+  display: inline-block;
+  margin: 100px auto;
+  padding: 30px;
+  background-color: white;
+  border: 1px solid #333;
+  border-radius: 5px;
+}
+
+.default-label {
+  margin-left: 15px;
+  margin-bottom: 15px;
+}

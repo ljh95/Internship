@@ -1,0 +1,46 @@
+[
+  {
+    "id": "501",
+    "site_name": "HS 고덕 스카이시티",
+    "type": "상차지",
+    "name": "HS 고덕 스카이시티 상차지",
+    "address": "경기도 의정부시 민락동 710-3 301호",
+    "latitude": 37.471694,
+    "longitude": 127.3673829,
+    "range": 100,
+    "is_allow": false
+  },
+  {
+    "id": "502",
+    "site_name": "MS 고덕 스카이시티",
+    "type": "하차지",
+    "name": "MS 고덕 스카이시티 상차지",
+    "address": "구로구 가산동 201-3 101호",
+    "latitude": 37.471694,
+    "longitude": 127.3673829,
+    "range": 150,
+    "is_allow": true
+  },
+  {
+    "id": "503",
+    "site_name": "AS 고덕 스카이시티",
+    "type": "상차지",
+    "name": "AS 고덕 스카이시티 상차지",
+    "address": "강남구 상처동 1189-3 1403호",
+    "latitude": 37.471694,
+    "longitude": 127.3673829,
+    "range": 200,
+    "is_allow": false
+  },
+  {
+    "id": "504",
+    "site_name": "DS 고덕 스카이시티",
+    "type": "하차지",
+    "name": "DS 고덕 스카이시티 상차지",
+    "address": "서천동 광천구 호이시팅 3102-2 103",
+    "latitude": 37.471694,
+    "longitude": 127.3673829,
+    "range": 300,
+    "is_allow": false
+  }
+]

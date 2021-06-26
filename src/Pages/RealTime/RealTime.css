@@ -1,0 +1,36 @@
+.realtime-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 90%;
+  padding: 20px;
+  background-color: #fafafa;
+}
+
+.realtime-title {
+  font-size: 20px;
+}
+
+.realtime-filter {
+  margin-bottom: 70px;
+  padding: 15px;
+  background-color: white;
+  border: 1px solid rgb(219, 219, 219);
+  border-radius: 5px;
+}
+
+.realtime-filter > * {
+  margin-right: 15px;
+}
+
+.realtime-manage-container {
+  margin: 15px 0 15px;
+  padding: 30px;
+  background-color: white;
+  border: 1px solid rgb(219, 219, 219);
+  border-radius: 5px;
+}
+
+.realtime-map {
+  height: 700px;
+}

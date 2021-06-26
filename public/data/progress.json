@@ -1,0 +1,62 @@
+[
+  {
+    "site_id": 1,
+    "site_name": "하늘채시그니처",
+    "progress": { "weight": 1, "percent": 1 },
+    "site_coordinate": { "longitude": 126.74886908, "latitude": 37.484962981 }
+  },
+  {
+    "site_id": 2,
+    "site_name": "센트럴자이3단지",
+    "progress": { "weight": 3, "percent": 5 },
+    "site_coordinate": { "longitude": 127.048616, "latitude": 37.4804644 }
+  },
+  {
+    "site_id": 3,
+    "site_name": "뉴비전엘크루",
+    "progress": { "weight": 2, "percent": 4 },
+    "site_coordinate": { "longitude": 126.8932123, "latitude": 37.4791893 }
+  },
+  {
+    "site_id": 4,
+    "site_name": "효성해링턴",
+    "progress": { "weight": 5, "percent": 3 },
+    "site_coordinate": { "longitude": 126.6398841, "latitude": 37.4721467 }
+  },
+  {
+    "site_id": 5,
+    "site_name": "금호어울림",
+    "progress": { "weight": 4, "percent": 6 },
+    "site_coordinate": { "longitude": 126.8392495, "latitude": 37.5472061 }
+  },
+  {
+    "site_id": 6,
+    "site_name": "군문주공",
+    "progress": { "weight": 2, "percent": 7 },
+    "site_coordinate": { "longitude": 126.907312, "latitude": 37.6133597 }
+  },
+  {
+    "site_id": 7,
+    "site_name": "부영",
+    "progress": { "weight": 3, "percent": 3 },
+    "site_coordinate": { "longitude": 126.80773933, "latitude": 37.561236764 }
+  },
+  {
+    "site_id": 8,
+    "site_name": "더샵지제영",
+    "progress": { "weight": 2, "percent": 2 },
+    "site_coordinate": { "longitude": 126.8417372, "latitude": 37.4829188 }
+  },
+  {
+    "site_id": 9,
+    "site_name": "늘푸른",
+    "progress": { "weight": 2, "percent": 5 },
+    "site_coordinate": { "longitude": 126.4434846, "latitude": 37.4828279 }
+  },
+  {
+    "site_id": 10,
+    "site_name": "서재자이",
+    "progress": { "weight": 1, "percent": 6 },
+    "site_coordinate": { "longitude": 126.8414011, "latitude": 37.6661749 }
+  }
+]

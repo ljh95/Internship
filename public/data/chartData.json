@@ -1,0 +1,110 @@
+{
+  "this_week": 3,
+  "datasets": [
+    {
+      "label": "사토",
+      "data": [32, 52, 53, 89, 6]
+    },
+    {
+      "label": "폐기물",
+      "data": [62, 73, 73, 58, 2]
+    },
+    {
+      "label": "음식물쓰래기",
+      "data": [12, 46, 43, 46, 6]
+    },
+    {
+      "label": "암석",
+      "data": [32, 57, 12, 55, 3]
+    }
+  ],
+  "datasets2": [
+    {
+      "label": 'Dataset 1',
+      "data": Utils.numbers(NUMBER_CFG),
+      "borderColor": Utils.CHART_COLORS.red,
+      "backgroundColor": Utils.transparentize(Utils.CHART_COLORS.red, 0.5),
+    },
+    {
+      "label": 'Dataset 2',
+      "data": Utils.numbers(NUMBER_CFG),
+      "borderColor": Utils.CHART_COLORS.blue,
+      "backgroundColor": Utils.transparentize(Utils.CHART_COLORS.blue, 0.5),
+    }
+  ],
+
+  "currentDataSets": [
+    {
+      "Iron": 0,
+      "Dirt": 0,
+      "Stone": 0,
+      "Waste": 0
+    },
+    {
+      "Iron": 0,
+      "Dirt": 0,
+      "Stone": 0,
+      "Waste": 0
+    },
+    {
+      "Iron": 0,
+      "Dirt": 0,
+      "Stone": 0,
+      "Waste": 0
+    },
+    {
+      "Iron": 0,
+      "Dirt": 0,
+      "Stone": 0,
+      "Waste": 0
+    },
+    {
+      "Iron": 12,
+      "Dirt": 19,
+      "Stone": 0,
+      "Waste": 0
+    },
+    {
+      "Iron": 0,
+      "Dirt": 0,
+      "Stone": 0,
+      "Waste": 0
+    },
+    {
+      "Iron": 0,
+      "Dirt": 0,
+      "Stone": 0,
+      "Waste": 0
+    },
+    {
+      "Iron": 0,
+      "Dirt": 0,
+      "Stone": 0,
+      "Waste": 0
+    },
+    {
+      "Iron": 0,
+      "Dirt": 0,
+      "Stone": 0,
+      "Waste": 0
+    },
+    {
+      "Iron": 0,
+      "Dirt": 0,
+      "Stone": 0,
+      "Waste": 0
+    },
+    {
+      "Iron": 0,
+      "Dirt": 0,
+      "Stone": 0,
+      "Waste": 0
+    },
+    {
+      "Iron": 0,
+      "Dirt": 0,
+      "Stone": 0,
+      "Waste": 0
+    }
+  ]
+}
